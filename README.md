@@ -1,4 +1,4 @@
-Cost-Control Smart Model Router (V1: Local MVP)
+CostLLM (V1: Local MVP)
 
 An intelligent, zero-cost LLM routing middleware built with FastAPI.
 
